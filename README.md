@@ -26,6 +26,5 @@ tutorial/
 
 
 To run the spider:
-       
-       
+
        scrapy crawl dmoz
